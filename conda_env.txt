@@ -1,0 +1,3 @@
+conda activate gan
+conda install -c conda-forge scipy
+conda install -c conda-forge seaborn
